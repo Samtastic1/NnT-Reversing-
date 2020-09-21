@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'Temple_chpped_mat'
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 
+  m_EnableInstancingVariants: 
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 8d6588d848b147638b2cd0e95e73ddcf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex1:
+        m_Texture: {fileID: 2800000, guid: 5870a3d594034e048cd4a50ab71171b2, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap1:
+        m_Texture: {fileID: 2800000, guid: ab4d2a3fa30445f2b3d4a5da85a76b09, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap2:
+        m_Texture: {fileID: 2800000, guid: f0b52f82801f4e12bca8784b233dc284, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendMap:
+        m_Texture: {fileID: 2800000, guid: 03432631aefc4de488bc93983687cdeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 2800000, guid: c41827bfece2462db83939e28e54890d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap3:
+        m_Texture: {fileID: 2800000, guid: f0b52f82801f4e12bca8784b233dc284, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Shininess: 1
+    - _Tile: 1
+    - _blendPower: 1
+    - _Desaturation_range: 0.5
+    - _cutoff: 5
+    m_Colors:
+    - _Color: {r: 0.6940298, g: 0.6940298, b: 0.6940298, a: 0.5019608}
+    - _SpecColor: {r: 0.08955222, g: 0.08955222, b: 0.08955222, a: 1}
+    - _Colour_tint: {r: 1, g: 1, b: 1, a: 1}
+    - _Normalilise: {r: 0.4980392, g: 0.4980392, b: 0, a: 0}

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'Scrabania_pulley_hanging_rope'
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 36
+    topology: 0
+    firstVertex: 0
+    vertexCount: 14
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.5, y: 0.5, z: 0.5}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose:
+  m_BoneNames:
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200000003000100020001000400020004000500050004000600050006000700070006000800070008000900090008000A0009000A000B000B000A000C000B000C000D00
+  m_Skin:
+  m_VertexData:
+    m_CurrentChannels: 6
+    m_VertexCount: 14
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 32
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 4
+    m_DataSize: 784
+    _typelessdata: A44221BCB9A78B3C6681E33E070000BFD3B35D3F00000000AA3CA3B99C3F234116071B3AEA95023BD3B35D3F0700003F1B59EF37000080BF6642213CBBA78B3C14DCA63FECFFFF3EDEB35D3F000000008AC12B3E4428594131DE4D3D587D7F3FDDB35D3FEBFFFFBECA7E7037000080BF6642213CBBA78B3C6681E33EECFFFF3EDEB35D3F0000000084C12B3E9A3F23414AE34D3D6B8D023BDDB35D3FEBFFFFBEB8B67037000080BFA44221BCB9A78B3C14DCA63F070000BFD3B35D3F00000000A66709B446285941231D313A517D7F3FD3B35D3F0700003F1B59EF37000080BF8542A13CA97E293214DCA63F0000803F000000000000000062F0AA3E442859411283CB3D5E7D7F3F00000000000080BF00000000000080BF8542A13CA97E29326681E33E0000803F000000000000000062F0AA3E9A3F2341AE86CB3D5E93023B00000000000080BF00000000000080BF6642213CB1A78BBC14DCA63FF2FFFF3EDCB35DBF00000000FFFFFF3E442859410D0C183E627D7F3FDBB35DBFF1FFFFBE00000000000080BF6642213CB3A78BBC6681E33EF2FFFF3EDCB35DBF000000000100003F9A3F2341DC0D183E5099023BDBB35DBFF1FFFFBE00000000000080BFA44221BCB3A78BBC14DCA63F060000BFD5B35DBF00000000CC872A3F442859410A564A3E697D7F3FD4B35DBF0500003F00000000000080BFA44221BCB5A78BBC6681E33E060000BFD5B35DBF00000000CD872A3F9A3F2341D8574A3E429F023BD4B35DBF0500003F00000000000080BF8542A1BCBD33EE3114DCA63F000080BF00000000000000009A0F553F442859418FA07C3E6F7D7F3F000000000000803F947D70B7000080BF8F42A1BCBD33EE316681E33E000080BF0000000000000000AF19553F9A3F234193AE7C3E5BA4023B000000000000803FEF4570B7000080BFA44221BCB9A78B3C14DCA63F070000BFD3B35D3F00000000FFFF7F3F4628594171B3973E737D7F3FD3B35D3F0700003F2C59EFB7000080BFA44221BCB9A78B3C6681E33E070000BFD3B35D3F00000000FEFF7F3F9C3F234158B4973EE5B7023BD3B35D3F0700003F1D59EFB7000080BF
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.5, y: 0.5, z: 0.5}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'rf01p03_large'
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 
+  m_EnableInstancingVariants: 
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f4a7d0b4db844d52b5be0f2d034d4527, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailTex:
+        m_Texture: {fileID: 2800000, guid: 67a6fbe59e17422691542a3a05539719, type: 3}
+        m_Scale: {x: 3, y: 0.001}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Width: 4.12
+    - _Tweak: -4.23
+    - _DetailContrast: 1
+    - _SoftEdge: 0.8
+    m_Colors:
+    - _Color: {r: 0.5895573, g: 0.4407703, b: 0.2463861, a: 0.8039216}
+    - _DetailAnim: {r: 1, g: 0, b: 0, a: 0}

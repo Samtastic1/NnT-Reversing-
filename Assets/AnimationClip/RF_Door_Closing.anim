@@ -1,0 +1,5571 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'RF_Door_Closing'
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0219318, y: -0.002935654, z: -0.4203014, w: 0.9073855}
+        inSlope: {x: -0.01123638, y: 0.004463398, z: 0.1916401, w: 0.09544722}
+        outSlope: {x: -0.01123638, y: 0.004463398, z: 0.1916401, w: 0.09544722}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333342
+        value: {x: 0.02083358, y: -0.002584575, z: -0.4013089, w: 0.9157022}
+        inSlope: {x: -0.06109405, y: 0.01813615, z: 1.060836, w: 0.4460884}
+        outSlope: {x: -0.06109405, y: 0.01813615, z: 1.060836, w: 0.4460884}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1000001
+        value: {x: 0.01430828, y: -0.001082325, z: -0.2865033, w: 0.9579718}
+        inSlope: {x: -0.1048673, y: 0.0171633, z: 1.876858, w: 0.5681511}
+        outSlope: {x: -0.1048673, y: 0.0171633, z: 1.876858, w: 0.5681511}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.007312955, y: 5.122884E-05, z: -0.160094, w: 0.9870747}
+        inSlope: {x: -0.1118513, y: 0.01811058, z: 2.010334, w: 0.3248507}
+        outSlope: {x: -0.1118513, y: 0.01811058, z: 2.010334, w: 0.3248507}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.003490956, y: 0.0005762065, z: -0.09174486, w: 0.9957763}
+        inSlope: {x: -0.08654651, y: 0.009113155, z: 1.552442, w: 0.1698151}
+        outSlope: {x: -0.08654651, y: 0.009113155, z: 1.552442, w: 0.1698151}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3000001
+        value: {x: 0.001002716, y: 0.0005090786, z: -0.04520868, w: 0.9989769}
+        inSlope: {x: -0.006977627, y: -0.002180092, z: 0.1473812, w: 0.006734129}
+        outSlope: {x: -0.006977627, y: -0.002180092, z: 0.1473812, w: 0.006734129}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: -0.02395344, w: 0.9997131}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 1.192093E-07
+        value: {x: 0.01489353, y: -0.001406772, z: -0.2595468, w: 0.9656147}
+        inSlope: {x: -0.02467598, y: 0.003810462, z: 0.4251963, w: 0.1080082}
+        outSlope: {x: -0.02467598, y: 0.003810462, z: 0.4251963, w: 0.1080082}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666672
+        value: {x: 0.01079906, y: -0.0008162434, z: -0.1881313, w: 0.9820842}
+        inSlope: {x: -0.06028775, y: 0.009437486, z: 1.062823, w: 0.2130362}
+        outSlope: {x: -0.06028775, y: 0.009437486, z: 1.062823, w: 0.2130362}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.004855446, y: 9.249109E-05, z: -0.0829311, w: 0.9965435}
+        inSlope: {x: -0.04620801, y: 0.005775037, z: 0.8206735, w: 0.06759252}
+        outSlope: {x: -0.04620801, y: 0.005775037, z: 0.8206735, w: 0.06759252}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333335
+        value: {x: 0.003252684, y: 0.000285071, z: -0.05442877, w: 0.9985123}
+        inSlope: {x: -0.06265387, y: 0.007173097, z: 1.113062, w: 0.05127126}
+        outSlope: {x: -0.06265387, y: 0.007173097, z: 1.113062, w: 0.05127126}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3000001
+        value: {x: -0.001057209, y: 0.0006684989, z: 0.02191622, w: 0.999759}
+        inSlope: {x: -0.0257667, y: 0.001301573, z: 0.4563459, w: -0.002965632}
+        outSlope: {x: -0.0257667, y: 0.001301573, z: 0.4563459, w: -0.002965632}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666668
+        value: {x: -0.0009893179, y: 0.0006267242, z: 0.02108329, w: 0.9997771}
+        inSlope: {x: 0.001889879, y: -0.001165893, z: -0.02320331, w: 0.0004881625}
+        outSlope: {x: 0.001889879, y: -0.001165893, z: -0.02320331, w: 0.0004881625}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: 0.0088444, w: 0.9999609}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.02431488, y: -0.002206801, z: -0.4149263, w: 0.9095517}
+        inSlope: {x: 0.002526324, y: 0.009614041, z: 0.02997785, w: 0.01334369}
+        outSlope: {x: 0.002526324, y: 0.009614041, z: 0.02997785, w: 0.01334369}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1000001
+        value: {x: 0.02420153, y: -0.0006309776, z: -0.4108501, w: 0.9113814}
+        inSlope: {x: -0.005262194, y: 0.0222969, z: 0.02554804, w: 0.01166492}
+        outSlope: {x: -0.005262194, y: 0.0222969, z: 0.02554804, w: 0.01166492}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2333335
+        value: {x: 0.02047883, y: 0.0007611554, z: -0.354646, w: 0.9347761}
+        inSlope: {x: -0.07143302, y: 0.01655065, z: 1.28417, w: 0.473204}
+        outSlope: {x: -0.07143302, y: 0.01655065, z: 1.28417, w: 0.473204}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666668
+        value: {x: 0.01743243, y: 0.001476293, z: -0.3015678, w: 0.9532843}
+        inSlope: {x: -0.2430579, y: 0.01880727, z: 4.109965, w: 0.9293308}
+        outSlope: {x: -0.2430579, y: 0.01880727, z: 4.109965, w: 0.9293308}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3000001
+        value: {x: 0.004274982, y: 0.002014972, z: -0.0806486, w: 0.9967314}
+        inSlope: {x: -0.2114849, y: 0.003488121, z: 3.61349, w: 0.6730008}
+        outSlope: {x: -0.2114849, y: 0.003488121, z: 3.61349, w: 0.6730008}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333335
+        value: {x: 0.003333444, y: 0.001708833, z: -0.0606686, w: 0.9981509}
+        inSlope: {x: -0.02591676, y: -0.009052191, z: 0.5536731, w: 0.03461207}
+        outSlope: {x: -0.02591676, y: -0.009052191, z: 0.5536731, w: 0.03461207}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: 0.01308891, w: 0.9999143}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 1.192093E-07
+        value: {x: 0.01808765, y: -0.001273027, z: -0.3603269, w: 0.9326499}
+        inSlope: {x: 0.007305646, y: 0.002213813, z: -0.116674, w: -0.04577909}
+        outSlope: {x: 0.007305646, y: 0.002213813, z: -0.116674, w: -0.04577909}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666672
+        value: {x: 0.02015797, y: -0.0009796561, z: -0.3932051, w: 0.9192293}
+        inSlope: {x: 0.05047248, y: 0.005199596, z: -0.7716624, w: -0.3319633}
+        outSlope: {x: 0.05047248, y: 0.005199596, z: -0.7716624, w: -0.3319633}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1333334
+        value: {x: 0.02299064, y: -0.0002798453, z: -0.4316938, w: 0.9017271}
+        inSlope: {x: 0.01765367, y: 0.02224063, z: -0.1267475, w: -0.05975789}
+        outSlope: {x: 0.01765367, y: 0.02224063, z: -0.1267475, w: -0.05975789}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2666668
+        value: {x: 0.02107227, y: 0.004338793, z: -0.3846081, w: 0.9228292}
+        inSlope: {x: -0.02985019, y: 0.01707566, z: 0.4787976, w: 0.2016442}
+        outSlope: {x: -0.02985019, y: 0.01707566, z: 0.4787976, w: 0.2016442}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3000001
+        value: {x: 0.02009958, y: 0.004401913, z: -0.3710208, w: 0.9283966}
+        inSlope: {x: -0.07167536, y: 0.00285374, z: 1.055662, w: 0.3955026}
+        outSlope: {x: -0.07167536, y: 0.00285374, z: 1.055662, w: 0.3955026}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333335
+        value: {x: 0.0162939, y: 0.004529042, z: -0.3142305, w: 0.9491961}
+        inSlope: {x: -0.3198672, y: -0.02393075, z: 4.840842, w: 1.056475}
+        outSlope: {x: -0.3198672, y: -0.02393075, z: 4.840842, w: 1.056475}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666668
+        value: {x: -0.001224893, y: 0.002806532, z: -0.0482981, w: 0.9988283}
+        inSlope: {x: -0.2629035, y: -0.03614347, z: 4.036583, w: 0.746734}
+        outSlope: {x: -0.2629035, y: -0.03614347, z: 4.036583, w: 0.746734}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4000001
+        value: {x: -0.001232982, y: 0.002119479, z: -0.04512518, w: 0.9989783}
+        inSlope: {x: 0.000740245, y: -0.01878252, z: 0.08656514, w: 0.003976826}
+        outSlope: {x: 0.000740245, y: -0.01878252, z: 0.08656514, w: 0.003976826}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: -0.03553624, w: 0.9993684}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 1.192093E-07
+        value: {x: 0.01676327, y: -0.0002602208, z: -0.2893506, w: 0.9570764}
+        inSlope: {x: 0.004689624, y: 0.0003270408, z: -0.07706128, w: -0.02360704}
+        outSlope: {x: 0.004689624, y: 0.0003270408, z: -0.07706128, w: -0.02360704}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2
+        value: {x: 0.02399016, y: 0.0002749387, z: -0.3982275, w: 0.9169729}
+        inSlope: {x: 0.04725649, y: 0.006775466, z: -0.6273973, w: -0.2722637}
+        outSlope: {x: 0.04725649, y: 0.006775466, z: -0.6273973, w: -0.2722637}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333335
+        value: {x: 0.02791255, y: 0.003815754, z: -0.4346859, w: 0.9001414}
+        inSlope: {x: 0.001966512, y: 0.05552309, z: 0.06106812, w: 0.02907069}
+        outSlope: {x: 0.001966512, y: 0.05552309, z: 0.06106812, w: 0.02907069}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666668
+        value: {x: 0.02760155, y: 0.005579463, z: -0.4311007, w: 0.9018643}
+        inSlope: {x: -0.06484783, y: -0.0103841, z: 0.8518329, w: 0.3810055}
+        outSlope: {x: -0.06484783, y: -0.0103841, z: 0.8518329, w: 0.3810055}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4000001
+        value: {x: 0.02358937, y: 0.003123481, z: -0.3778971, w: 0.9255418}
+        inSlope: {x: -0.1919449, y: -0.05486565, z: 2.78593, w: 1.011746}
+        outSlope: {x: -0.1919449, y: -0.05486565, z: 2.78593, w: 1.011746}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4333334
+        value: {x: 0.01480523, y: 0.001921756, z: -0.2453722, w: 0.969314}
+        inSlope: {x: -0.2125103, y: -0.009979564, z: 3.303845, w: 0.9286013}
+        outSlope: {x: -0.2125103, y: -0.009979564, z: 3.303845, w: 0.9286013}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4666668
+        value: {x: 0.009422009, y: 0.00245818, z: -0.1576407, w: 0.9874485}
+        inSlope: {x: -0.1521429, y: 0.01415228, z: 2.481425, w: 0.4120556}
+        outSlope: {x: -0.1521429, y: 0.01415228, z: 2.481425, w: 0.4120556}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5333334
+        value: {x: 0.002021461, y: 0.002682966, z: -0.03306319, w: 0.9994476}
+        inSlope: {x: -0.05277742, y: -0.01137686, z: 1.014567, w: 0.0470558}
+        outSlope: {x: -0.05277742, y: -0.01137686, z: 1.014567, w: 0.0470558}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6333334
+        value: {x: 0.0002322358, y: 0.0009185729, z: 0.01005283, w: 0.999949}
+        inSlope: {x: -0.007571233, y: -0.01577724, z: 0.1916374, w: -0.001515449}
+        outSlope: {x: -0.007571233, y: -0.01577724, z: 0.1916374, w: -0.001515449}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: 0.01621213, w: 0.9998686}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.01491505, y: 0.0006035346, z: -0.3074471, w: 0.9514581}
+        inSlope: {x: 0.004667435, y: 0.0004858234, z: -0.06933533, w: -0.02299816}
+        outSlope: {x: 0.004667435, y: 0.0004858234, z: -0.06933533, w: -0.02299816}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.03333342
+        value: {x: 0.01507909, y: 0.0006243737, z: -0.3094153, w: 0.9508073}
+        inSlope: {x: 0.004780511, y: 0.0007507425, z: -0.03929798, w: -0.01289607}
+        outSlope: {x: 0.004780511, y: 0.0007507425, z: -0.03929798, w: -0.01289607}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3666668
+        value: {x: 0.02346252, y: 0.003046602, z: -0.4043061, w: 0.9143177}
+        inSlope: {x: 0.04370298, y: 0.01426877, z: -0.5683119, w: -0.2533134}
+        outSlope: {x: 0.04370298, y: 0.01426877, z: -0.5683119, w: -0.2533134}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4000001
+        value: {x: 0.02498101, y: 0.003540482, z: -0.4242856, w: 0.9051769}
+        inSlope: {x: 0.1908909, y: 0.05366101, z: -2.597447, w: -1.481019}
+        outSlope: {x: 0.1908909, y: 0.05366101, z: -2.597447, w: -1.481019}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4333334
+        value: {x: 0.03618857, y: 0.006624, z: -0.5774691, w: 0.8155832}
+        inSlope: {x: -0.1057779, y: 0.1027235, z: 1.263727, w: 0.5251006}
+        outSlope: {x: -0.1057779, y: 0.1027235, z: 1.263727, w: 0.5251006}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4666668
+        value: {x: 0.0179291, y: 0.01038872, z: -0.3400363, w: 0.940184}
+        inSlope: {x: -0.5265363, y: -0.03340589, z: 7.574356, w: 2.726607}
+        outSlope: {x: -0.5265363, y: -0.03340589, z: 7.574356, w: 2.726607}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5000001
+        value: {x: 0.00108612, y: 0.004396956, z: -0.07251164, w: 0.9973573}
+        inSlope: {x: -0.2590827, y: -0.1141988, z: 4.158877, w: 0.8675926}
+        outSlope: {x: -0.2590827, y: -0.1141988, z: 4.158877, w: 0.8675926}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5333334
+        value: {x: 0.0006569326, y: 0.002775475, z: -0.06277808, w: 0.9980235}
+        inSlope: {x: -0.01075778, y: -0.04182239, z: 0.2506703, w: 0.01624971}
+        outSlope: {x: -0.01075778, y: -0.04182239, z: 0.2506703, w: 0.01624971}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: -0.04621167, w: 0.9989317}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 1.192093E-07
+        value: {x: 0.02891689, y: 0.002588082, z: -0.5046077, w: 0.8628604}
+        inSlope: {x: -0.0001504832, y: 6.387365E-05, z: 0.007645197, w: 0.004473035}
+        outSlope: {x: -0.0001504832, y: 6.387365E-05, z: 0.007645197, w: 0.004473035}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4666668
+        value: {x: 0.02453122, y: 0.003745081, z: -0.3836969, w: 0.9231256}
+        inSlope: {x: -0.02420505, y: 0.00361866, z: 0.5766588, w: 0.2397053}
+        outSlope: {x: -0.02420505, y: 0.00361866, z: 0.5766588, w: 0.2397053}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5666668
+        value: {x: 0.0202517, y: 0.004202962, z: -0.3002232, w: 0.9536448}
+        inSlope: {x: -0.1062818, y: 0.005480338, z: 1.648567, w: 0.4961851}
+        outSlope: {x: -0.1062818, y: 0.005480338, z: 1.648567, w: 0.4961851}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6333334
+        value: {x: 0.01016201, y: 0.003676716, z: -0.1501917, w: 0.9885979}
+        inSlope: {x: -0.1586878, y: -0.03052735, z: 2.396541, w: 0.3708891}
+        outSlope: {x: -0.1586878, y: -0.03052735, z: 2.396541, w: 0.3708891}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7000002
+        value: {x: 0.00139717, y: 0.0007253097, z: -0.01296541, w: 0.9999147}
+        inSlope: {x: -0.07592697, y: -0.03413917, z: 1.230398, w: 0.0382026}
+        outSlope: {x: -0.07592697, y: -0.03413917, z: 1.230398, w: 0.0382026}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0, y: 0, z: 0.01019391, w: 0.9999481}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7346984, y: -0.6780539, z: -0.003565912, w: -0.03381706}
+        inSlope: {x: 0.01193074, y: 0.004973365, z: -0.0003429638, w: 0.0005657827}
+        outSlope: {x: 0.01193074, y: 0.004973365, z: -0.0003429638, w: 0.0005657827}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333335
+        value: {x: 0.7721066, y: -0.6346024, z: -0.00587978, w: -0.03311466}
+        inSlope: {x: 0.3303245, y: 0.402965, z: -0.02035725, w: 0.008909399}
+        outSlope: {x: 0.3303245, y: 0.402965, z: -0.02035725, w: 0.008909399}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4666668
+        value: {x: 0.83092, y: -0.5554335, z: -0.009603749, w: -0.03119854}
+        inSlope: {x: 0.5465488, y: 0.8210343, z: -0.03566314, w: 0.02147261}
+        outSlope: {x: 0.5465488, y: 0.8210343, z: -0.03566314, w: 0.02147261}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5000001
+        value: {x: 0.8499346, y: -0.5258977, z: -0.01085602, w: -0.0304105}
+        inSlope: {x: 1.02422, y: 1.782023, z: -0.06076503, w: 0.09963734}
+        outSlope: {x: 1.02422, y: 1.782023, z: -0.06076503, w: 0.09963734}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5333334
+        value: {x: 0.8992013, y: -0.436632, z: -0.01365475, w: -0.02455606}
+        inSlope: {x: 1.679154, y: 3.79679, z: -0.06290974, w: 0.2690057}
+        outSlope: {x: 1.679154, y: 3.79679, z: -0.06290974, w: 0.2690057}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5666668
+        value: {x: 0.9618784, y: -0.2727781, z: -0.01505, w: -0.01247676}
+        inSlope: {x: 1.420133, y: 4.9017, z: 0.0273308, w: 0.3519695}
+        outSlope: {x: 1.420133, y: 4.9017, z: 0.0273308, w: 0.3519695}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6000001
+        value: {x: 0.993877, y: -0.1098517, z: -0.0118327, w: -0.001091402}
+        inSlope: {x: 0.5614843, y: 3.547955, z: 0.1182966, w: 0.2415252}
+        outSlope: {x: 0.5614843, y: 3.547955, z: 0.1182966, w: 0.2415252}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6333334
+        value: {x: 0.9993106, y: -0.03624798, z: -0.007163572, w: 0.003624901}
+        inSlope: {x: 0.07711715, y: 0.9868326, z: 0.1215882, w: 0.0570857}
+        outSlope: {x: 0.07711715, y: 0.9868326, z: 0.1215882, w: 0.0570857}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: 0.9990181, y: -0.04406295, z: -0.00372683, w: 0.002714307}
+        inSlope: {x: -0.0154039, y: -0.3344699, z: 0.09128132, w: -0.04019787}
+        outSlope: {x: -0.0154039, y: -0.3344699, z: 0.09128132, w: -0.04019787}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: 0.9977974, y: -0.06633546, z: -4.061875E-18, w: 6.109747E-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6707594, y: 0.1623593, z: 0.6958598, w: 0.2010786}
+        inSlope: {x: 0.01564929, y: 0.02559415, z: -0.007351809, w: 0.01917524}
+        outSlope: {x: 0.01564929, y: 0.02559415, z: -0.007351809, w: 0.01917524}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.06666672
+        value: {x: -0.6677819, y: 0.17268, z: 0.6928543, w: 0.2102428}
+        inSlope: {x: 0.08316715, y: 0.3324064, z: -0.09634662, w: 0.3012627}
+        outSlope: {x: 0.08316715, y: 0.3324064, z: -0.09634662, w: 0.3012627}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3000001
+        value: {x: -0.6188936, y: 0.3124579, z: 0.6362258, w: 0.3384635}
+        inSlope: {x: 0.293353, y: 0.6343603, z: -0.3387645, w: 0.5901946}
+        outSlope: {x: 0.293353, y: 0.6343603, z: -0.3387645, w: 0.5901946}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4666668
+        value: {x: -0.5801489, y: 0.3848921, z: 0.5916479, w: 0.4064949}
+        inSlope: {x: 0.09093925, y: 0.1498378, z: -0.1042546, w: 0.1420643}
+        outSlope: {x: 0.09093925, y: 0.1498378, z: -0.1042546, w: 0.1420643}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5333334
+        value: {x: -0.5861412, y: 0.3740459, z: 0.5993711, w: 0.3965885}
+        inSlope: {x: -0.3504811, y: -0.6578474, z: 0.44247, w: -0.6013284}
+        outSlope: {x: -0.3504811, y: -0.6578474, z: 0.44247, w: -0.6013284}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6000001
+        value: {x: -0.6163613, y: 0.312194, z: 0.6376837, w: 0.3405776}
+        inSlope: {x: -0.3086904, y: -0.6910083, z: 0.3929869, w: -0.6202203}
+        outSlope: {x: -0.3086904, y: -0.6910083, z: 0.3929869, w: -0.6202203}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6333334
+        value: {x: -0.6224892, y: 0.2975754, z: 0.6455064, w: 0.3275328}
+        inSlope: {x: 0.2238905, y: 0.4749356, z: -0.2500143, w: 0.3899645}
+        outSlope: {x: 0.2238905, y: 0.4749356, z: -0.2500143, w: 0.3899645}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.6014353, y: 0.3438563, z: 0.6210161, w: 0.3665752}
+        inSlope: {x: 0.9185426, y: 1.78261, z: -1.089651, w: 1.511156}
+        outSlope: {x: 0.9185426, y: 1.78261, z: -1.089651, w: 1.511156}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7000002
+        value: {x: -0.5612529, y: 0.4164162, z: 0.5728629, w: 0.4282766}
+        inSlope: {x: 0.7178873, y: 1.29098, z: -0.8839122, w: 1.08733}
+        outSlope: {x: 0.7178873, y: 1.29098, z: -0.8839122, w: 1.08733}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333335
+        value: {x: -0.5535761, y: 0.4299218, z: 0.5620885, w: 0.4390641}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.4515895, y: 0.5441204, z: -0.4811418, w: 0.5181724}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -0.4515895, y: 0.5441204, z: -0.4811418, w: 0.5181724}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0.02326398, w: 0.9997293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 0, y: 0, z: 0.02326398, w: 0.9997293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 220.4286, z: 39.44285}
+        inSlope: {x: 0, y: 0.001354574, z: -0.0007134169}
+        outSlope: {x: 0, y: 0.001354574, z: -0.0007134169}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7333333
+        value: {x: 0, y: 8.068443, z: 6.772383}
+        inSlope: {x: 0, y: 131.3826, z: 1.665336E-13}
+        outSlope: {x: 0, y: 131.3826, z: 1.665336E-13}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7666667
+        value: {x: 0, y: 12.44787, z: 6.772383}
+        inSlope: {x: 0, y: 0.003369519, z: 1.66533E-13}
+        outSlope: {x: 0, y: 0.003369519, z: 1.66533E-13}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8000001
+        value: {x: 0, y: 8.068443, z: 6.772383}
+        inSlope: {x: 0, y: 0.0004184143, z: 1.665336E-13}
+        outSlope: {x: 0, y: 0.0004184143, z: 1.665336E-13}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: 0, y: 10.07043, z: 6.772383}
+        inSlope: {x: 0, y: -0.0001459357, z: 1.665336E-13}
+        outSlope: {x: 0, y: -0.0001459357, z: 1.665336E-13}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 0, y: 8.068443, z: 6.772383}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.81474, y: -0.457705, z: -1.477242}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.81474, y: -0.457705, z: -1.477242}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.67534, y: 0.1820671, z: -1.464101}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.67534, y: 0.1820671, z: -1.464101}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.52891, y: -0.5417331, z: -1.461171}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.52891, y: -0.5417331, z: -1.461171}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.82079, y: -0.007128502, z: -1.47748}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.82079, y: -0.007128502, z: -1.47748}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.90118, y: 0.2829825, z: -1.478454}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.90118, y: 0.2829825, z: -1.478454}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.15458, y: -0.4409361, z: -1.446418}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.15458, y: -0.4409361, z: -1.446418}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.58036, y: 0.1186378, z: -1.467746}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.58036, y: 0.1186378, z: -1.467746}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.7074, y: -0.9113412, z: -1.483778}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.7074, y: -0.9113412, z: -1.483778}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -26.57595, y: -0.9201372, z: -1.473855}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -26.57595, y: -0.9201372, z: -1.473855}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -27.1158, y: 1.64132, z: 1.512531}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: -27.1158, y: 1.64132, z: 1.512531}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+  m_FloatCurves:
+  m_PPtrCurves:
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_MuscleClipSize: 10296
+  m_MuscleClip:
+    serializedVersion: 3
+    m_DeltaPose:
+      m_RootX:
+        t: {x: 0, y: 0, z: 0, w: 0}
+        q: {x: 0, y: 0, z: 0, w: 1}
+        s: {x: 1, y: 1, z: 1, w: 1}
+      m_LookAtPosition: {x: 0, y: 0, z: 0, w: 0}
+      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_GoalArray:
+      - m_X:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: 
+          m_HintWeightT: 
+      - m_X:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: 
+          m_HintWeightT: 
+      - m_X:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: 
+          m_HintWeightT: 
+      - m_X:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: 
+          m_HintWeightT: 
+      m_LeftHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_RightHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      m_TDoFArray:
+    m_StartX:
+      t: {x: 0, y: 0, z: 0, w: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1, w: 1}
+    m_StopX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_LeftFootStartX:
+      t: {x: 0, y: 0, z: 0, w: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1, w: 1}
+    m_RightFootStartX:
+      t: {x: 0, y: 0, z: 0, w: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1, w: 1}
+    m_AverageSpeed: {x: 0, y: 0, z: 0, w: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1575614021
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2616995919
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 248417570
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3191986930
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3096960916
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 658419496
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 175873917
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 870094001
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 693410133
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2106461973
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2008504240
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2616995919
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 248417570
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3191986930
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3096960916
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 658419496
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 175873917
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 870094001
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 693410133
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2106461973
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1575614021
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2008504240
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1575614021
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2008504240
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2616995919
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 248417570
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3191986930
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3096960916
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 658419496
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 175873917
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 870094001
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 693410133
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2106461973
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping:
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 
+    m_StartTime: 0
+    m_StopTime: 0.8666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 1
+    m_LoopBlendPositionY: 1
+    m_LoopBlendPositionXZ: 1
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 0
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+    m_HasGenericRootTransform: 0
+    m_HasMotionFloatCurves: 0
+    m_GenerateMotionCurves: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 220.4286
+        inSlope: 0.001354574
+        outSlope: 0.001354574
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333333
+        value: 8.068443
+        inSlope: 131.3826
+        outSlope: 131.3826
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7666667
+        value: 12.44787
+        inSlope: 0.003369519
+        outSlope: 0.003369519
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8000001
+        value: 8.068443
+        inSlope: 0.0004184143
+        outSlope: 0.0004184143
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333334
+        value: 10.07043
+        inSlope: -0.0001459357
+        outSlope: -0.0001459357
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 8.068443
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 39.44285
+        inSlope: -0.0007134169
+        outSlope: -0.0007134169
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333333
+        value: 6.772383
+        inSlope: 1.665336E-13
+        outSlope: 1.665336E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7666667
+        value: 6.772383
+        inSlope: 1.66533E-13
+        outSlope: 1.66533E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8000001
+        value: 6.772383
+        inSlope: 1.665336E-13
+        outSlope: 1.665336E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333334
+        value: 6.772383
+        inSlope: 1.665336E-13
+        outSlope: 1.665336E-13
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 6.772383
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0219318
+        inSlope: -0.01123638
+        outSlope: -0.01123638
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: 0.02083358
+        inSlope: -0.06109405
+        outSlope: -0.06109405
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: 0.01430828
+        inSlope: -0.1048673
+        outSlope: -0.1048673
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.007312955
+        inSlope: -0.1118513
+        outSlope: -0.1118513
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.003490956
+        inSlope: -0.08654651
+        outSlope: -0.08654651
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.001002716
+        inSlope: -0.006977627
+        outSlope: -0.006977627
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.002935654
+        inSlope: 0.004463398
+        outSlope: 0.004463398
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: -0.002584575
+        inSlope: 0.01813615
+        outSlope: 0.01813615
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: -0.001082325
+        inSlope: 0.0171633
+        outSlope: 0.0171633
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 5.122884E-05
+        inSlope: 0.01811058
+        outSlope: 0.01811058
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.0005762065
+        inSlope: 0.009113155
+        outSlope: 0.009113155
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.0005090786
+        inSlope: -0.002180092
+        outSlope: -0.002180092
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4203014
+        inSlope: 0.1916401
+        outSlope: 0.1916401
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: -0.4013089
+        inSlope: 1.060836
+        outSlope: 1.060836
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: -0.2865033
+        inSlope: 1.876858
+        outSlope: 1.876858
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.160094
+        inSlope: 2.010334
+        outSlope: 2.010334
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.09174486
+        inSlope: 1.552442
+        outSlope: 1.552442
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: -0.04520868
+        inSlope: 0.1473812
+        outSlope: 0.1473812
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: -0.02395344
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9073855
+        inSlope: 0.09544722
+        outSlope: 0.09544722
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: 0.9157022
+        inSlope: 0.4460884
+        outSlope: 0.4460884
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: 0.9579718
+        inSlope: 0.5681511
+        outSlope: 0.5681511
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.9870747
+        inSlope: 0.3248507
+        outSlope: 0.3248507
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.9957763
+        inSlope: 0.1698151
+        outSlope: 0.1698151
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.9989769
+        inSlope: 0.006734129
+        outSlope: 0.006734129
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9997131
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.01489353
+        inSlope: -0.02467598
+        outSlope: -0.02467598
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.01079906
+        inSlope: -0.06028775
+        outSlope: -0.06028775
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.004855446
+        inSlope: -0.04620801
+        outSlope: -0.04620801
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: 0.003252684
+        inSlope: -0.06265387
+        outSlope: -0.06265387
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: -0.001057209
+        inSlope: -0.0257667
+        outSlope: -0.0257667
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: -0.0009893179
+        inSlope: 0.001889879
+        outSlope: 0.001889879
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.001406772
+        inSlope: 0.003810462
+        outSlope: 0.003810462
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: -0.0008162434
+        inSlope: 0.009437486
+        outSlope: 0.009437486
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 9.249109E-05
+        inSlope: 0.005775037
+        outSlope: 0.005775037
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: 0.000285071
+        inSlope: 0.007173097
+        outSlope: 0.007173097
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.0006684989
+        inSlope: 0.001301573
+        outSlope: 0.001301573
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.0006267242
+        inSlope: -0.001165893
+        outSlope: -0.001165893
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.2595468
+        inSlope: 0.4251963
+        outSlope: 0.4251963
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: -0.1881313
+        inSlope: 1.062823
+        outSlope: 1.062823
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.0829311
+        inSlope: 0.8206735
+        outSlope: 0.8206735
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: -0.05442877
+        inSlope: 1.113062
+        outSlope: 1.113062
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.02191622
+        inSlope: 0.4563459
+        outSlope: 0.4563459
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.02108329
+        inSlope: -0.02320331
+        outSlope: -0.02320331
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.0088444
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.9656147
+        inSlope: 0.1080082
+        outSlope: 0.1080082
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.9820842
+        inSlope: 0.2130362
+        outSlope: 0.2130362
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.9965435
+        inSlope: 0.06759252
+        outSlope: 0.06759252
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: 0.9985123
+        inSlope: 0.05127126
+        outSlope: 0.05127126
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.999759
+        inSlope: -0.002965632
+        outSlope: -0.002965632
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.9997771
+        inSlope: 0.0004881625
+        outSlope: 0.0004881625
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9999609
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02431488
+        inSlope: 0.002526324
+        outSlope: 0.002526324
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: 0.02420153
+        inSlope: -0.005262194
+        outSlope: -0.005262194
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: 0.02047883
+        inSlope: -0.07143302
+        outSlope: -0.07143302
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: 0.01743243
+        inSlope: -0.2430579
+        outSlope: -0.2430579
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.004274982
+        inSlope: -0.2114849
+        outSlope: -0.2114849
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.003333444
+        inSlope: -0.02591676
+        outSlope: -0.02591676
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.002206801
+        inSlope: 0.009614041
+        outSlope: 0.009614041
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: -0.0006309776
+        inSlope: 0.0222969
+        outSlope: 0.0222969
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: 0.0007611554
+        inSlope: 0.01655065
+        outSlope: 0.01655065
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: 0.001476293
+        inSlope: 0.01880727
+        outSlope: 0.01880727
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.002014972
+        inSlope: 0.003488121
+        outSlope: 0.003488121
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.001708833
+        inSlope: -0.009052191
+        outSlope: -0.009052191
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4149263
+        inSlope: 0.02997785
+        outSlope: 0.02997785
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: -0.4108501
+        inSlope: 0.02554804
+        outSlope: 0.02554804
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: -0.354646
+        inSlope: 1.28417
+        outSlope: 1.28417
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: -0.3015678
+        inSlope: 4.109965
+        outSlope: 4.109965
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: -0.0806486
+        inSlope: 3.61349
+        outSlope: 3.61349
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.0606686
+        inSlope: 0.5536731
+        outSlope: 0.5536731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.01308891
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9095517
+        inSlope: 0.01334369
+        outSlope: 0.01334369
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1000001
+        value: 0.9113814
+        inSlope: 0.01166492
+        outSlope: 0.01166492
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2333335
+        value: 0.9347761
+        inSlope: 0.473204
+        outSlope: 0.473204
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: 0.9532843
+        inSlope: 0.9293308
+        outSlope: 0.9293308
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.9967314
+        inSlope: 0.6730008
+        outSlope: 0.6730008
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.9981509
+        inSlope: 0.03461207
+        outSlope: 0.03461207
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9999143
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.01808765
+        inSlope: 0.007305646
+        outSlope: 0.007305646
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.02015797
+        inSlope: 0.05047248
+        outSlope: 0.05047248
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333334
+        value: 0.02299064
+        inSlope: 0.01765367
+        outSlope: 0.01765367
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: 0.02107227
+        inSlope: -0.02985019
+        outSlope: -0.02985019
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.02009958
+        inSlope: -0.07167536
+        outSlope: -0.07167536
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.0162939
+        inSlope: -0.3198672
+        outSlope: -0.3198672
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: -0.001224893
+        inSlope: -0.2629035
+        outSlope: -0.2629035
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: -0.001232982
+        inSlope: 0.000740245
+        outSlope: 0.000740245
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.001273027
+        inSlope: 0.002213813
+        outSlope: 0.002213813
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: -0.0009796561
+        inSlope: 0.005199596
+        outSlope: 0.005199596
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333334
+        value: -0.0002798453
+        inSlope: 0.02224063
+        outSlope: 0.02224063
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: 0.004338793
+        inSlope: 0.01707566
+        outSlope: 0.01707566
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.004401913
+        inSlope: 0.00285374
+        outSlope: 0.00285374
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.004529042
+        inSlope: -0.02393075
+        outSlope: -0.02393075
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.002806532
+        inSlope: -0.03614347
+        outSlope: -0.03614347
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.002119479
+        inSlope: -0.01878252
+        outSlope: -0.01878252
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.3603269
+        inSlope: -0.116674
+        outSlope: -0.116674
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: -0.3932051
+        inSlope: -0.7716624
+        outSlope: -0.7716624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333334
+        value: -0.4316938
+        inSlope: -0.1267475
+        outSlope: -0.1267475
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: -0.3846081
+        inSlope: 0.4787976
+        outSlope: 0.4787976
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: -0.3710208
+        inSlope: 1.055662
+        outSlope: 1.055662
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.3142305
+        inSlope: 4.840842
+        outSlope: 4.840842
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: -0.0482981
+        inSlope: 4.036583
+        outSlope: 4.036583
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: -0.04512518
+        inSlope: 0.08656514
+        outSlope: 0.08656514
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: -0.03553624
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.9326499
+        inSlope: -0.04577909
+        outSlope: -0.04577909
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.9192293
+        inSlope: -0.3319633
+        outSlope: -0.3319633
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1333334
+        value: 0.9017271
+        inSlope: -0.05975789
+        outSlope: -0.05975789
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2666668
+        value: 0.9228292
+        inSlope: 0.2016442
+        outSlope: 0.2016442
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.9283966
+        inSlope: 0.3955026
+        outSlope: 0.3955026
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.9491961
+        inSlope: 1.056475
+        outSlope: 1.056475
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.9988283
+        inSlope: 0.746734
+        outSlope: 0.746734
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.9989783
+        inSlope: 0.003976826
+        outSlope: 0.003976826
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9993684
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.01676327
+        inSlope: 0.004689624
+        outSlope: 0.004689624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.02399016
+        inSlope: 0.04725649
+        outSlope: 0.04725649
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.02791255
+        inSlope: 0.001966512
+        outSlope: 0.001966512
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.02760155
+        inSlope: -0.06484783
+        outSlope: -0.06484783
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.02358937
+        inSlope: -0.1919449
+        outSlope: -0.1919449
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: 0.01480523
+        inSlope: -0.2125103
+        outSlope: -0.2125103
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.009422009
+        inSlope: -0.1521429
+        outSlope: -0.1521429
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.002021461
+        inSlope: -0.05277742
+        outSlope: -0.05277742
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.0002322358
+        inSlope: -0.007571233
+        outSlope: -0.007571233
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.0002602208
+        inSlope: 0.0003270408
+        outSlope: 0.0003270408
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.0002749387
+        inSlope: 0.006775466
+        outSlope: 0.006775466
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.003815754
+        inSlope: 0.05552309
+        outSlope: 0.05552309
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.005579463
+        inSlope: -0.0103841
+        outSlope: -0.0103841
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.003123481
+        inSlope: -0.05486565
+        outSlope: -0.05486565
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: 0.001921756
+        inSlope: -0.009979564
+        outSlope: -0.009979564
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.00245818
+        inSlope: 0.01415228
+        outSlope: 0.01415228
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.002682966
+        inSlope: -0.01137686
+        outSlope: -0.01137686
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.0009185729
+        inSlope: -0.01577724
+        outSlope: -0.01577724
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.2893506
+        inSlope: -0.07706128
+        outSlope: -0.07706128
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: -0.3982275
+        inSlope: -0.6273973
+        outSlope: -0.6273973
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.4346859
+        inSlope: 0.06106812
+        outSlope: 0.06106812
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: -0.4311007
+        inSlope: 0.8518329
+        outSlope: 0.8518329
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: -0.3778971
+        inSlope: 2.78593
+        outSlope: 2.78593
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: -0.2453722
+        inSlope: 3.303845
+        outSlope: 3.303845
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.1576407
+        inSlope: 2.481425
+        outSlope: 2.481425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: -0.03306319
+        inSlope: 1.014567
+        outSlope: 1.014567
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.01005283
+        inSlope: 0.1916374
+        outSlope: 0.1916374
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.01621213
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.9570764
+        inSlope: -0.02360704
+        outSlope: -0.02360704
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2
+        value: 0.9169729
+        inSlope: -0.2722637
+        outSlope: -0.2722637
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.9001414
+        inSlope: 0.02907069
+        outSlope: 0.02907069
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.9018643
+        inSlope: 0.3810055
+        outSlope: 0.3810055
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.9255418
+        inSlope: 1.011746
+        outSlope: 1.011746
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: 0.969314
+        inSlope: 0.9286013
+        outSlope: 0.9286013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.9874485
+        inSlope: 0.4120556
+        outSlope: 0.4120556
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.9994476
+        inSlope: 0.0470558
+        outSlope: 0.0470558
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.999949
+        inSlope: -0.001515449
+        outSlope: -0.001515449
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9998686
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01491505
+        inSlope: 0.004667435
+        outSlope: 0.004667435
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: 0.01507909
+        inSlope: 0.004780511
+        outSlope: 0.004780511
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.02346252
+        inSlope: 0.04370298
+        outSlope: 0.04370298
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.02498101
+        inSlope: 0.1908909
+        outSlope: 0.1908909
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: 0.03618857
+        inSlope: -0.1057779
+        outSlope: -0.1057779
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.0179291
+        inSlope: -0.5265363
+        outSlope: -0.5265363
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: 0.00108612
+        inSlope: -0.2590827
+        outSlope: -0.2590827
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.0006569326
+        inSlope: -0.01075778
+        outSlope: -0.01075778
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0006035346
+        inSlope: 0.0004858234
+        outSlope: 0.0004858234
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: 0.0006243737
+        inSlope: 0.0007507425
+        outSlope: 0.0007507425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.003046602
+        inSlope: 0.01426877
+        outSlope: 0.01426877
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.003540482
+        inSlope: 0.05366101
+        outSlope: 0.05366101
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: 0.006624
+        inSlope: 0.1027235
+        outSlope: 0.1027235
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.01038872
+        inSlope: -0.03340589
+        outSlope: -0.03340589
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: 0.004396956
+        inSlope: -0.1141988
+        outSlope: -0.1141988
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.002775475
+        inSlope: -0.04182239
+        outSlope: -0.04182239
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.3074471
+        inSlope: -0.06933533
+        outSlope: -0.06933533
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: -0.3094153
+        inSlope: -0.03929798
+        outSlope: -0.03929798
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: -0.4043061
+        inSlope: -0.5683119
+        outSlope: -0.5683119
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: -0.4242856
+        inSlope: -2.597447
+        outSlope: -2.597447
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: -0.5774691
+        inSlope: 1.263727
+        outSlope: 1.263727
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.3400363
+        inSlope: 7.574356
+        outSlope: 7.574356
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: -0.07251164
+        inSlope: 4.158877
+        outSlope: 4.158877
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: -0.06277808
+        inSlope: 0.2506703
+        outSlope: 0.2506703
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: -0.04621167
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9514581
+        inSlope: -0.02299816
+        outSlope: -0.02299816
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.03333342
+        value: 0.9508073
+        inSlope: -0.01289607
+        outSlope: -0.01289607
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3666668
+        value: 0.9143177
+        inSlope: -0.2533134
+        outSlope: -0.2533134
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4000001
+        value: 0.9051769
+        inSlope: -1.481019
+        outSlope: -1.481019
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4333334
+        value: 0.8155832
+        inSlope: 0.5251006
+        outSlope: 0.5251006
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.940184
+        inSlope: 2.726607
+        outSlope: 2.726607
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: 0.9973573
+        inSlope: 0.8675926
+        outSlope: 0.8675926
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.9980235
+        inSlope: 0.01624971
+        outSlope: 0.01624971
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9989317
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.02891689
+        inSlope: -0.0001504832
+        outSlope: -0.0001504832
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.02453122
+        inSlope: -0.02420505
+        outSlope: -0.02420505
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: 0.0202517
+        inSlope: -0.1062818
+        outSlope: -0.1062818
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.01016201
+        inSlope: -0.1586878
+        outSlope: -0.1586878
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: 0.00139717
+        inSlope: -0.07592697
+        outSlope: -0.07592697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.002588082
+        inSlope: 6.387365E-05
+        outSlope: 6.387365E-05
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.003745081
+        inSlope: 0.00361866
+        outSlope: 0.00361866
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: 0.004202962
+        inSlope: 0.005480338
+        outSlope: 0.005480338
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.003676716
+        inSlope: -0.03052735
+        outSlope: -0.03052735
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: 0.0007253097
+        inSlope: -0.03413917
+        outSlope: -0.03413917
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: -0.5046077
+        inSlope: 0.007645197
+        outSlope: 0.007645197
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.3836969
+        inSlope: 0.5766588
+        outSlope: 0.5766588
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: -0.3002232
+        inSlope: 1.648567
+        outSlope: 1.648567
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: -0.1501917
+        inSlope: 2.396541
+        outSlope: 2.396541
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: -0.01296541
+        inSlope: 1.230398
+        outSlope: 1.230398
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.01019391
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 1.192093E-07
+        value: 0.8628604
+        inSlope: 0.004473035
+        outSlope: 0.004473035
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.9231256
+        inSlope: 0.2397053
+        outSlope: 0.2397053
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: 0.9536448
+        inSlope: 0.4961851
+        outSlope: 0.4961851
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.9885979
+        inSlope: 0.3708891
+        outSlope: 0.3708891
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: 0.9999147
+        inSlope: 0.0382026
+        outSlope: 0.0382026
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9999481
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7346984
+        inSlope: 0.01193074
+        outSlope: 0.01193074
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: 0.7721066
+        inSlope: 0.3303245
+        outSlope: 0.3303245
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.83092
+        inSlope: 0.5465488
+        outSlope: 0.5465488
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: 0.8499346
+        inSlope: 1.02422
+        outSlope: 1.02422
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.8992013
+        inSlope: 1.679154
+        outSlope: 1.679154
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: 0.9618784
+        inSlope: 1.420133
+        outSlope: 1.420133
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: 0.993877
+        inSlope: 0.5614843
+        outSlope: 0.5614843
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.9993106
+        inSlope: 0.07711715
+        outSlope: 0.07711715
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.9990181
+        inSlope: -0.0154039
+        outSlope: -0.0154039
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.9977974
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.6780539
+        inSlope: 0.004973365
+        outSlope: 0.004973365
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.6346024
+        inSlope: 0.402965
+        outSlope: 0.402965
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.5554335
+        inSlope: 0.8210343
+        outSlope: 0.8210343
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: -0.5258977
+        inSlope: 1.782023
+        outSlope: 1.782023
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: -0.436632
+        inSlope: 3.79679
+        outSlope: 3.79679
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: -0.2727781
+        inSlope: 4.9017
+        outSlope: 4.9017
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: -0.1098517
+        inSlope: 3.547955
+        outSlope: 3.547955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: -0.03624798
+        inSlope: 0.9868326
+        outSlope: 0.9868326
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.04406295
+        inSlope: -0.3344699
+        outSlope: -0.3344699
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: -0.06633546
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.003565912
+        inSlope: -0.0003429638
+        outSlope: -0.0003429638
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.00587978
+        inSlope: -0.02035725
+        outSlope: -0.02035725
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.009603749
+        inSlope: -0.03566314
+        outSlope: -0.03566314
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: -0.01085602
+        inSlope: -0.06076503
+        outSlope: -0.06076503
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: -0.01365475
+        inSlope: -0.06290974
+        outSlope: -0.06290974
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: -0.01505
+        inSlope: 0.0273308
+        outSlope: 0.0273308
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: -0.0118327
+        inSlope: 0.1182966
+        outSlope: 0.1182966
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: -0.007163572
+        inSlope: 0.1215882
+        outSlope: 0.1215882
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.00372683
+        inSlope: 0.09128132
+        outSlope: 0.09128132
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: -4.061875E-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.03381706
+        inSlope: 0.0005657827
+        outSlope: 0.0005657827
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333335
+        value: -0.03311466
+        inSlope: 0.008909399
+        outSlope: 0.008909399
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.03119854
+        inSlope: 0.02147261
+        outSlope: 0.02147261
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5000001
+        value: -0.0304105
+        inSlope: 0.09963734
+        outSlope: 0.09963734
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: -0.02455606
+        inSlope: 0.2690057
+        outSlope: 0.2690057
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5666668
+        value: -0.01247676
+        inSlope: 0.3519695
+        outSlope: 0.3519695
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: -0.001091402
+        inSlope: 0.2415252
+        outSlope: 0.2415252
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.003624901
+        inSlope: 0.0570857
+        outSlope: 0.0570857
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.002714307
+        inSlope: -0.04019787
+        outSlope: -0.04019787
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 6.109747E-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.6707594
+        inSlope: 0.01564929
+        outSlope: 0.01564929
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: -0.6677819
+        inSlope: 0.08316715
+        outSlope: 0.08316715
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: -0.6188936
+        inSlope: 0.293353
+        outSlope: 0.293353
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: -0.5801489
+        inSlope: 0.09093925
+        outSlope: 0.09093925
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: -0.5861412
+        inSlope: -0.3504811
+        outSlope: -0.3504811
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: -0.6163613
+        inSlope: -0.3086904
+        outSlope: -0.3086904
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: -0.6224892
+        inSlope: 0.2238905
+        outSlope: 0.2238905
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.6014353
+        inSlope: 0.9185426
+        outSlope: 0.9185426
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: -0.5612529
+        inSlope: 0.7178873
+        outSlope: 0.7178873
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: -0.5535761
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1623593
+        inSlope: 0.02559415
+        outSlope: 0.02559415
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.17268
+        inSlope: 0.3324064
+        outSlope: 0.3324064
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.3124579
+        inSlope: 0.6343603
+        outSlope: 0.6343603
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.3848921
+        inSlope: 0.1498378
+        outSlope: 0.1498378
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.3740459
+        inSlope: -0.6578474
+        outSlope: -0.6578474
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: 0.312194
+        inSlope: -0.6910083
+        outSlope: -0.6910083
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.2975754
+        inSlope: 0.4749356
+        outSlope: 0.4749356
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.3438563
+        inSlope: 1.78261
+        outSlope: 1.78261
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: 0.4164162
+        inSlope: 1.29098
+        outSlope: 1.29098
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.4299218
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6958598
+        inSlope: -0.007351809
+        outSlope: -0.007351809
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.6928543
+        inSlope: -0.09634662
+        outSlope: -0.09634662
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.6362258
+        inSlope: -0.3387645
+        outSlope: -0.3387645
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.5916479
+        inSlope: -0.1042546
+        outSlope: -0.1042546
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.5993711
+        inSlope: 0.44247
+        outSlope: 0.44247
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: 0.6376837
+        inSlope: 0.3929869
+        outSlope: 0.3929869
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.6455064
+        inSlope: -0.2500143
+        outSlope: -0.2500143
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.6210161
+        inSlope: -1.089651
+        outSlope: -1.089651
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: 0.5728629
+        inSlope: -0.8839122
+        outSlope: -0.8839122
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.5620885
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2010786
+        inSlope: 0.01917524
+        outSlope: 0.01917524
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.06666672
+        value: 0.2102428
+        inSlope: 0.3012627
+        outSlope: 0.3012627
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3000001
+        value: 0.3384635
+        inSlope: 0.5901946
+        outSlope: 0.5901946
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4666668
+        value: 0.4064949
+        inSlope: 0.1420643
+        outSlope: 0.1420643
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5333334
+        value: 0.3965885
+        inSlope: -0.6013284
+        outSlope: -0.6013284
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6000001
+        value: 0.3405776
+        inSlope: -0.6202203
+        outSlope: -0.6202203
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6333334
+        value: 0.3275328
+        inSlope: 0.3899645
+        outSlope: 0.3899645
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.3665752
+        inSlope: 1.511156
+        outSlope: 1.511156
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7000002
+        value: 0.4282766
+        inSlope: 1.08733
+        outSlope: 1.08733
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7333335
+        value: 0.4390641
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.81474
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.81474
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.457705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.457705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.477242
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.477242
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.67534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.67534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1820671
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.1820671
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.464101
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.464101
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.52891
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.52891
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5417331
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.5417331
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.461171
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.461171
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.82079
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.82079
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.007128502
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.007128502
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.47748
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.47748
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.90118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.90118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.2829825
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.2829825
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.478454
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.478454
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.15458
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.15458
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4409361
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.4409361
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.446418
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.446418
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.58036
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.58036
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1186378
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.1186378
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.467746
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.467746
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.7074
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.7074
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.9113412
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.9113412
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.483778
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.483778
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -26.57595
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -26.57595
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.9201372
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.9201372
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.473855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -1.473855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -27.1158
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -27.1158
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.64132
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1.64132
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.512531
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1.512531
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4515895
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.4515895
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5441204
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.5441204
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4811418
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: -0.4811418
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5181724
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.5181724
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02326398
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.02326398
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9997293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 0.9997293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: bone_rolling_door_base/bone_rolling_door_1/bone_rolling_door_2/bone_rolling_door_3/bone_rolling_door_4/bone_rolling_door_5/bone_rolling_door_6/bone_rolling_door_7/bone_rolling_door_8/bone_rolling_door_9/bone_rolling_door_10
+    classID: 4
+    script: {fileID: 0}
+  m_Events:
+  - time: 0
+    functionName: 'SoundEvent'
+    data: 'Play_rupture_farms_door_close'
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

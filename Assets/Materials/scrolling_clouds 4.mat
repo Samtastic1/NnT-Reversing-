@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'scrolling_clouds 4'
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 
+  m_EnableInstancingVariants: 
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 04c543abb71b4f5a98f9e1bd40f10dc9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 04c543abb71b4f5a98f9e1bd40f10dc9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _UVPanY: 0
+    - _Emissive_Intensity: 0.5357143
+    - _InvFade: 0.0923214
+    - _Gloss_Intensity: 4
+    - _UVPanX: -1.12
+    - _UVPanX2: -0.66
+    - _UVPanY2: 0
+    - _AlphaIntensity: 0.4464286
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.53125, g: 0.2905273, b: 0.2905273, a: 0.5019608}
+    - _UV_Control: {r: -1, g: 0, b: 0, a: 0}
+    - _ColorTint: {r: 0.3401491, g: 0.2331257, b: 0.3647059, a: 0}

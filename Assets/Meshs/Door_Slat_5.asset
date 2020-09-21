@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'Door_Slat_5'
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 18
+    topology: 0
+    firstVertex: 0
+    vertexCount: 10
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.5, y: 0.5, z: 0.5}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose:
+  m_BoneNames:
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200000003000100030004000100030005000400060007000800060009000700
+  m_Skin:
+  m_VertexData:
+    m_CurrentChannels: 6
+    m_VertexCount: 10
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 32
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 4
+    m_DataSize: 560
+    _typelessdata: 8E486CBB7D1FD93D53A3BD3E24EF393FA1F72F3F00000000FBED413F115A123F293F3C3FA960453F3DF5FC318EA405B20000803F000080BFCFD59B3CCF27A83DEBCFCEBE0000803F00000000000000008D8A1D3F6B3A113F68FD113E1EB1403F000000007631B6B20000803F000080BF8E486CBB7D1FD93D6EFCC1BE24EF393FA1F72F3F00000000EBB71E3F105A123FAEA0253EAA60453F862FDC3433A8E8B40000803F000080BFCFD59B3CCF27A83DD276CA3E0000803F00000000000000005E1B433F6B3A113FF827413F1EB1403F00000000000000000000803F000080BFCFD59B3C7D1FD9BD4B09FEBE0000803F5EC0083500000000E734193F2F63083F3F5F933DDBD21B3F00000000000000000000803F000080BFCFD59B3C7D1FD9BD32B0F93E0000803F5EC0083500000000FA70473F2F63083F623B533FDAD21B3F00000000000000000000803F000080BFCFD59B3C7D1FD9BD32B0F93E00000000000080BF000000004C200D3DCA1068364C200D3DCA106836837A88B300000000000080BF000080BFB6D59BBC7D1FD9BD4B09FEBE00000000000080BF000000004841793FA9FF7F3F4841793FA9FF7F3F94A1883300000000000080BF000080BFCFD59B3C7D1FD9BD4B09FEBE00000000000080BF000000004841793F2218AE364841793F2218AE3601B38F3300000000000080BF000080BFB6D59BBC7D1FD9BD32B0F93E00000000000080BF000000004C200D3DC6FF7F3F4C200D3DC6FF7F3FED8B8FB300000000000080BF000080BF
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.5, y: 0.5, z: 0.5}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'sediment02'
+  m_Shader: {fileID: 4, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 
+  m_EnableInstancingVariants: 
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 384f705c24f14ec9bd0eee4005779d38, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: a42533f0dcf546a7a8b09db28f7e1c9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Shininess: 0.03
+    - _Glossiness: 0.144
+    - _Rim_Thickness: 2.567164
+    - _Rim_Range: 0.152
+    - _Parallax: 0.02
+    - _Gloss_Intensity: 0.4996119
+    - _speed: 100
+    - _Gloss: 0.5
+    - _Spec_Power: 0.2985074
+    - _Rim_power: 0.9850746
+    - _Rim_range: 0.04477612
+    - _Desaturation_range: 0.5
+    m_Colors:
+    - _Color: {r: 0.6117647, g: 0.6117647, b: 0.6117647, a: 1}
+    - _SpecColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Emissive_Colour: {r: 0, g: 0, b: 0, a: 1}
+    - _Colour_Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _Colour_tint: {r: 1, g: 0.8261142, b: 0.7462686, a: 1}
+    - _Normalilise: {r: 1, g: 1, b: 1, a: 1}
+    - _Normal_add: {r: 0.4980392, g: 0.4980392, b: 0, a: 1}

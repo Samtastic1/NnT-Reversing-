@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/Application/application.unity
+    guid: 6159321f962342e4785f44412e474da5
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/Loading.unity
+    guid: c1922fa465dc1164ab17b37b038c055c
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/00_FrontEnd/Front_End.unity
+    guid: 897e62135c64f7a49ba6e45c09ba2548
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/01_RuptureFarms/Zulag1_p1.unity
+    guid: 3ee545953f7129344acb0b0701413740
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/01_RuptureFarms/Zulag1_p2_1.unity
+    guid: 6a54006532c3c354295649005009203e
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/01_RuptureFarms/Zulag1_p2_2.unity
+    guid: 546271e2a0d93da4f80980428427f61f
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/01_RuptureFarms/Zulag1_p3.unity
+    guid: 0181a68b6c489fa45a5af481b79c2514
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/02_Stockyards/Stockyards.unity
+    guid: ab52f723dfc3cf345b877ddd4ab55c79
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/02_Stockyards/FreeFireZone.unity
+    guid: 791be71141ed7634aa94ac80207ce518
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/03_MonsaicLines/Monsaic_p1.unity
+    guid: b10ce446ed9e1b3418ffb952b2beb6c7
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/03_MonsaicLines/Monsaic_p2.unity
+    guid: b694e5f6ab04fc241912720a765d28f8
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/03_MonsaicLines/Monsaic_p3.unity
+    guid: 138a1c02a6ad42b4b9ae0cf7739fec70
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/04_Paramonia/Paramonia_path1.unity
+    guid: 5983c3307b0106340993d475256af85b
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/04_Paramonia/Paramonia_Elum01.unity
+    guid: f12062c8edd1d1845abc18be94b4f147
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/04_Paramonia/Paramonia_path2.unity
+    guid: edb74bd18b7657e4d929ca800c83a4dc
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/04_Paramonia/Paramonia_path3.unity
+    guid: 598875858f9012547a7b12aae5f35241
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/04_Paramonia/Paramonia_Elum02.unity
+    guid: 35def322ecf29484ab668e6c664b7e08
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/04_Paramonia/Paramonia_path4.unity
+    guid: 049fee63599ee3f41a7926dec3f980ec
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_Start.unity
+    guid: dadb3c899bbb4624a909aabd5a73ef51
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_Hub.unity
+    guid: 92cca5b5a9eb3ca4fa5ea066081f080d
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_t1.unity
+    guid: 0e06d5ac83d8587469c1c63ce9a1d5b0
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_t2.unity
+    guid: 774244f846853274db1407c1780e845e
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_t3.unity
+    guid: 6687eaf335334124b92cabd5bbc65e71
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_t4.unity
+    guid: d35d11f71917d874ba1e88c5821f797e
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_t5.unity
+    guid: 5799b94cc7b2e974cbee2d7db79f31f0
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/05_ParaTemple/ParaTemple_t6.unity
+    guid: 1da0a719a4b0fa04883b27be79c1670c
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/06_ParaNest/ParaNest_Chase.unity
+    guid: 0f49605153590c34fb505546a03c76c8
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/06_ParaNest/ParaNest_End.unity
+    guid: 27f6026954e531f42a291ea9db2457e2
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/07_Scrabania/Scrabania_path1.unity
+    guid: e3ed9362eb6b7e540a5991fd8f602ed5
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/07_Scrabania/Scrabania_Elum01.unity
+    guid: 8bf610fb4ee142d4ca01e109b26fc19d
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/07_Scrabania/Scrabania_path2.unity
+    guid: f5973478f34452a4ab44a163eb557a07
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/07_Scrabania/Scrabania_path3.unity
+    guid: 7ffd034132e342c4c919982e8d05f6df
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/07_Scrabania/Scrabania_Elum02.unity
+    guid: c563f71b928f7304fa89349d2b065da1
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/07_Scrabania/Scrabania_path4.unity
+    guid: b2545d260651e3e488ce1d5d6a84e4a1
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_Start.unity
+    guid: ae15dfda624d85140a17471f4dc5a665
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_Hub.unity
+    guid: df8ad1df6ce5e3649952a3680d168a6f
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t1.unity
+    guid: c836e0a897dd0414aab5394161c575c2
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t2.unity
+    guid: c15bf196ae0163b4aa6644c1916d8432
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t3.unity
+    guid: d40053cc0427d0d468f90ee9fb96fbe4
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t4.unity
+    guid: ac4e1977091a64d4cbfcbc0f7c6e77b9
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t5.unity
+    guid: 6c9a9a62de246ca4b9a871003817380d
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t6.unity
+    guid: ba1e354be63b81d41924868f6a530ba6
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t7.unity
+    guid: 019cc6209ebe56c49939bd534002323f
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/08_ScrabTemple/ScrabTemple_t8.unity
+    guid: 8f7fa53644f18ab499033ce64ed6399e
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/09_ScrabNest/ScrabNest_Chase.unity
+    guid: fd46c14ce3b60aa4da1513d378fc8939
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/09_ScrabNest/ScrabNest_End.unity
+    guid: c9efef97db32a164eb409feaffdd16f5
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/12_Zulag2/Zulag2_Hub.unity
+    guid: 1052d25441ea15e45843cefe44031f20
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/12_Zulag2/Zulag2_p1.unity
+    guid: 9d1d80e4586697f45bbf7d5d7aa4de84
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/12_Zulag2/Zulag2_p2.unity
+    guid: 24b0a40ae2273e64ca5676274c4c8d92
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/12_Zulag2/Zulag2_p3.unity
+    guid: d8e28fb8760ef2244a9fdc87bc858559
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/13_Zulag3/Zulag3_Hub.unity
+    guid: b56867575664f89428692bbf8a527342
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/13_Zulag3/Zulag3_p1.unity
+    guid: b676e1ad0628e4a4eb7fe50be4ea9e8b
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/13_Zulag3/Zulag3_p2.unity
+    guid: cdda4dd564b71904f9ac6f48617120b3
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/13_Zulag3/Zulag3_p3.unity
+    guid: 1e33ff875efc76945a41aef148495f4d
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/14_Zulag4/Zulag4_p1.unity
+    guid: 730c34ee2ba84a742836e3e5887206ad
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/14_Zulag4/Zulag4_p2.unity
+    guid: f99caa8b066416f4d92de2c78e39f7cb
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/14_Zulag4/Zulag4_p3.unity
+    guid: 7bde471194f99014eb7707f2e0f0738c
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/14_Zulag4/Zulag4_p4.unity
+    guid: c4ded3b0daa18df4191cd2321514a70e
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/15_BoardRoom/Boardroom.unity
+    guid: 739a9f6156f1a394baf36a62bb649c3e
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/16_TrainStations/Train_1_2.unity
+    guid: 11b6cfa5b0c11a14687f080413046c94
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/16_TrainStations/Train_2_3.unity
+    guid: b0fbc8789aa1aa443b71d935c2e3c1be
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/16_TrainStations/Train_3_4.unity
+    guid: a59abb22c744de642924176a8f4b1720
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/16_TrainStations/Train_GeoScene.unity
+    guid: 21cc4284938e9e74da178d6ab2c82954
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/FreeFireZone_s1.unity
+    guid: 43bd7d3d9162ecc408b006100b9718f2
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/FreeFireZone_s2.unity
+    guid: cb60fb74750364a4eae0704c158af03a
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/FreeFireZone_s3.unity
+    guid: 744a284003b51364b9dd20f22c4b7e55
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/FreeFireZone_s4.unity
+    guid: 00346cddaf93c8143a00a3f6924195e4
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/ParaTemple_t5_s.unity
+    guid: b538fb345dcf1914983e41116c82eb70
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/ScrabTemple_Start_s.unity
+    guid: 369264de01da2f34e9102547cb7195df
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/ScrabTemple_t7_s.unity
+    guid: e9cb59341f241954f89d7452b3b528f4
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/ScrabTemple_t8_s.unity
+    guid: cf392c15eac37524e862d3b81235ea38
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Stockyards_s.unity
+    guid: c8928f2a5f495194ebb47b6d5a80dec5
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Zulag1_p1_s1.unity
+    guid: d487363ca7d298c4c88ba3512f2127e5
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Zulag1_p1_s2.unity
+    guid: 74ce15ea351040840a45862872393a26
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Zulag1_p1_s3.unity
+    guid: a9a5a2a6e01123145b44e9cb6153ab95
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Zulag1_p1_s4.unity
+    guid: 002976171d6eff7479ddc68871df713f
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Zulag1_p2_1_s.unity
+    guid: 890e1df3a2ca33a42ad00ad96140c806
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/17_SecretAreas/Zulag1_p3_s.unity
+    guid: f56541d4faa1f8a42bd42033e5f260b2
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Bar.unity
+    guid: 6cea5658e7f4e6a4bbb1f27e303d6226
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Hub.unity
+    guid: 17d67785388a79c40b1e7f4218dd2f7d
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Hub_p1.unity
+    guid: d004a62dbb1c8454bbec04dba8ecd2eb
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Hub_p2.unity
+    guid: 2f957f393427f8c48b74c189a8a80f90
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Hub_p3.unity
+    guid: 7b6fe75eb317f6247800aa4e6b34f353
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Pens.unity
+    guid: 1acf2879d5a495744a9b13a41f0212f8
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Security.unity
+    guid: fd06b17450f29314aa5d49326b62bb56
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Start.unity
+    guid: 837c2c4b15e2fe743a24244ef1924c68
+  - enabled: 1
+    path: Assets/AbeHD Assets/Levels/18_Alf/Alf_Train.unity
+    guid: 

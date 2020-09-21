@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'Paramonia_TrapdoorAvatar'
+  m_AvatarSize: 672
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 1
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        m_ID: 00000000f12e572652b92cba18ccfbfc
+        m_AxesArray:
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        - t: {x: 8.404155E-24, y: -0.25, z: -1.108956E-08, w: 0}
+          q: {x: -3.774895E-08, y: 4.464869E-15, z: -1.18278E-07, w: 1}
+          s: {x: 2.54, y: 2.54, z: 2.54, w: 1}
+        - t: {x: -0.05294646, y: -0.02055413, z: 0, w: 0}
+          q: {x: 5.960464E-08, y: -1.28898E-09, z: 7.682917E-17, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        - t: {x: -0.3448856, y: 0.1189791, z: 0.02373077, w: 0}
+          q: {x: -7.549793E-08, y: 1, z: -2.8213E-07, w: -7.678688E-08}
+          s: {x: 0.3937008, y: 0.3937008, z: 0.3937008, w: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        - t: {x: 8.404155E-24, y: -0.25, z: -1.108956E-08, w: 0}
+          q: {x: -3.774895E-08, y: 4.464869E-15, z: -1.18278E-07, w: 1}
+          s: {x: 2.54, y: 2.54, z: 2.54, w: 1}
+        - t: {x: -0.05294646, y: -0.02055413, z: 0, w: 0}
+          q: {x: 5.960464E-08, y: -1.28898E-09, z: 7.682917E-17, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        - t: {x: -0.3448856, y: 0.1189791, z: 0.02373077, w: 0}
+          q: {x: -7.549793E-08, y: 1, z: -2.8213E-07, w: -7.678688E-08}
+          s: {x: 0.3937008, y: 0.3937008, z: 0.3937008, w: 1}
+    m_SkeletonNameIDArray: 00000000f12e5726bf944d7fe7a96dc9
+    m_Human:
+      data:
+        m_RootX:
+          t: {x: 0, y: 0, z: 0, w: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1, w: 1}
+        m_Skeleton:
+          data:
+            m_Node:
+            m_ID: 
+            m_AxesArray:
+        m_SkeletonPose:
+          data:
+            m_X:
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Handles:
+        m_ColliderArray:
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.1454546
+        - 0.1212121
+        - 0.1212121
+        - 0.04848485
+        - 0.04848485
+        - 0.009696971
+        - 0.009696971
+        - 0.03030303
+        - 0.2909091
+        - 0.01212121
+        - 0.04848485
+        - 0.006060607
+        - 0.006060607
+        - 0.02424243
+        - 0.02424243
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.002424243
+        - 0.002424243
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0, w: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1, w: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node:
+        m_ID: 
+        m_AxesArray:
+    m_RootMotionSkeletonPose:
+      data:
+        m_X:
+    m_RootMotionSkeletonIndexArray: 
+  m_TOS:
+    0: 
+    643247857: Bonehinge
+    3123493202: Bonehinge/Bonetrapdoor
+    4244360216: Bonehinge/Bonetrapdoor/Trapdoor_Paramonia

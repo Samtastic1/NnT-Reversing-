@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'shrykull_2048'
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 
+  m_EnableInstancingVariants: 
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: e6f8182b7b9945df80bd0bd2230a0884, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 8e869b1dc2f04d35bdd3858a370d2d48, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Specular:
+        m_Texture: {fileID: 2800000, guid: e618651dcc904ca1b07d3189614c6f3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Shininess: 1
+    - _Glossiness: 1
+    - _Rim_Thickness: 3
+    - _Rim_Range: 0.25
+    - _Pulse_Speed: 1.34
+    - _Emissive_Intensity: 0
+    - _Specular_Intensity: 0.2196161
+    - _Gloss_Intensity: 1
+    - _speed: 1
+    - _Gloss: 2
+    - _UV_Speed: 10
+    - _Spec_Power: 2.985075
+    - _EmissionLM: 0
+    - _RimPower: 0.5
+    - _Brightness: 3
+    - _ClipPower: 301
+    - _DiffuseAmount: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Emissive_Colour: {r: 0.9960784, g: 0.3882353, b: 0.1176471, a: 1}
+    - _Colour_Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _Emissive_Colour2: {r: 0, g: 0, b: 0, a: 1}
+    - _Rim_Colour: {r: 0.6044776, g: 0.6044776, b: 0.6044776, a: 1}
+    - _UV_Control: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 0.46, g: 0, b: 1, a: 0}
+    - _EyeColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SkinColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _HairColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
